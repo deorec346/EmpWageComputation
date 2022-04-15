@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\UC12_List_Of_Multiple_Companies\UC12_List_Of_Multiple_Companies\obj\Debug\net6.0\UC12_List_Of_Multiple_Companies.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\UC12_List_Of_Multiple_Companies\UC12_List_Of_Multiple_Companies\obj\Debug\net6.0\UC12_List_Of_Multiple_Companies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\UC12_List_Of_Multiple_Companies\UC12_List_Of_Multiple_Companies\obj\Debug\net6.0\UC12_List_Of_Multiple_Companies.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\UC12_List_Of_Multiple_Companies\UC12_List_Of_Multiple_Companies\obj\Debug\net6.0\UC12_List_Of_Multiple_Companies.AssemblyInfo.cs
+C:\Users\DELL\source\repos\UC12_List_Of_Multiple_Companies\UC12_List_Of_Multiple_Companies\obj\Debug\net6.0\UC12_List_Of_Multiple_Companies.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\UC12_List_Of_Multiple_Companies\UC12_List_Of_Multiple_Companies\bin\Debug\net6.0\UC12_List_Of_Multiple_Companies.exe
+C:\Users\DELL\source\repos\UC12_List_Of_Multiple_Companies\UC12_List_Of_Multiple_Companies\bin\Debug\net6.0\UC12_List_Of_Multiple_Companies.deps.json
+C:\Users\DELL\source\repos\UC12_List_Of_Multiple_Companies\UC12_List_Of_Multiple_Companies\bin\Debug\net6.0\UC12_List_Of_Multiple_Companies.runtimeconfig.json
+C:\Users\DELL\source\repos\UC12_List_Of_Multiple_Companies\UC12_List_Of_Multiple_Companies\bin\Debug\net6.0\UC12_List_Of_Multiple_Companies.dll
+C:\Users\DELL\source\repos\UC12_List_Of_Multiple_Companies\UC12_List_Of_Multiple_Companies\bin\Debug\net6.0\UC12_List_Of_Multiple_Companies.pdb
+C:\Users\DELL\source\repos\UC12_List_Of_Multiple_Companies\UC12_List_Of_Multiple_Companies\obj\Debug\net6.0\UC12_List_Of_Multiple_Companies.dll
+C:\Users\DELL\source\repos\UC12_List_Of_Multiple_Companies\UC12_List_Of_Multiple_Companies\obj\Debug\net6.0\refint\UC12_List_Of_Multiple_Companies.dll
+C:\Users\DELL\source\repos\UC12_List_Of_Multiple_Companies\UC12_List_Of_Multiple_Companies\obj\Debug\net6.0\UC12_List_Of_Multiple_Companies.pdb
+C:\Users\DELL\source\repos\UC12_List_Of_Multiple_Companies\UC12_List_Of_Multiple_Companies\obj\Debug\net6.0\UC12_List_Of_Multiple_Companies.genruntimeconfig.cache
+C:\Users\DELL\source\repos\UC12_List_Of_Multiple_Companies\UC12_List_Of_Multiple_Companies\obj\Debug\net6.0\ref\UC12_List_Of_Multiple_Companies.dll
