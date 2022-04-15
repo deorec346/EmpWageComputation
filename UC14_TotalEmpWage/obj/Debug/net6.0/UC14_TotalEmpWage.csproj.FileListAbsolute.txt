@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\UC14_TotalEmpWage\UC14_TotalEmpWage\bin\Debug\net6.0\UC14_TotalEmpWage.exe
+C:\Users\DELL\source\repos\UC14_TotalEmpWage\UC14_TotalEmpWage\bin\Debug\net6.0\UC14_TotalEmpWage.deps.json
+C:\Users\DELL\source\repos\UC14_TotalEmpWage\UC14_TotalEmpWage\bin\Debug\net6.0\UC14_TotalEmpWage.runtimeconfig.json
+C:\Users\DELL\source\repos\UC14_TotalEmpWage\UC14_TotalEmpWage\bin\Debug\net6.0\UC14_TotalEmpWage.dll
+C:\Users\DELL\source\repos\UC14_TotalEmpWage\UC14_TotalEmpWage\bin\Debug\net6.0\UC14_TotalEmpWage.pdb
+C:\Users\DELL\source\repos\UC14_TotalEmpWage\UC14_TotalEmpWage\obj\Debug\net6.0\UC14_TotalEmpWage.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\UC14_TotalEmpWage\UC14_TotalEmpWage\obj\Debug\net6.0\UC14_TotalEmpWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\UC14_TotalEmpWage\UC14_TotalEmpWage\obj\Debug\net6.0\UC14_TotalEmpWage.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\UC14_TotalEmpWage\UC14_TotalEmpWage\obj\Debug\net6.0\UC14_TotalEmpWage.AssemblyInfo.cs
+C:\Users\DELL\source\repos\UC14_TotalEmpWage\UC14_TotalEmpWage\obj\Debug\net6.0\UC14_TotalEmpWage.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\UC14_TotalEmpWage\UC14_TotalEmpWage\obj\Debug\net6.0\UC14_TotalEmpWage.dll
+C:\Users\DELL\source\repos\UC14_TotalEmpWage\UC14_TotalEmpWage\obj\Debug\net6.0\refint\UC14_TotalEmpWage.dll
+C:\Users\DELL\source\repos\UC14_TotalEmpWage\UC14_TotalEmpWage\obj\Debug\net6.0\UC14_TotalEmpWage.pdb
+C:\Users\DELL\source\repos\UC14_TotalEmpWage\UC14_TotalEmpWage\obj\Debug\net6.0\UC14_TotalEmpWage.genruntimeconfig.cache
+C:\Users\DELL\source\repos\UC14_TotalEmpWage\UC14_TotalEmpWage\obj\Debug\net6.0\ref\UC14_TotalEmpWage.dll
