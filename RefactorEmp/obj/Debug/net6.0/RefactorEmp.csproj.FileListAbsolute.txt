@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\day10emp\RefactorEmp\RefactorEmp\bin\Debug\net6.0\RefactorEmp.exe
+C:\Users\DELL\source\repos\day10emp\RefactorEmp\RefactorEmp\bin\Debug\net6.0\RefactorEmp.deps.json
+C:\Users\DELL\source\repos\day10emp\RefactorEmp\RefactorEmp\bin\Debug\net6.0\RefactorEmp.runtimeconfig.json
+C:\Users\DELL\source\repos\day10emp\RefactorEmp\RefactorEmp\bin\Debug\net6.0\RefactorEmp.dll
+C:\Users\DELL\source\repos\day10emp\RefactorEmp\RefactorEmp\bin\Debug\net6.0\RefactorEmp.pdb
+C:\Users\DELL\source\repos\day10emp\RefactorEmp\RefactorEmp\obj\Debug\net6.0\RefactorEmp.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\day10emp\RefactorEmp\RefactorEmp\obj\Debug\net6.0\RefactorEmp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\day10emp\RefactorEmp\RefactorEmp\obj\Debug\net6.0\RefactorEmp.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\day10emp\RefactorEmp\RefactorEmp\obj\Debug\net6.0\RefactorEmp.AssemblyInfo.cs
+C:\Users\DELL\source\repos\day10emp\RefactorEmp\RefactorEmp\obj\Debug\net6.0\RefactorEmp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\day10emp\RefactorEmp\RefactorEmp\obj\Debug\net6.0\RefactorEmp.dll
+C:\Users\DELL\source\repos\day10emp\RefactorEmp\RefactorEmp\obj\Debug\net6.0\refint\RefactorEmp.dll
+C:\Users\DELL\source\repos\day10emp\RefactorEmp\RefactorEmp\obj\Debug\net6.0\RefactorEmp.pdb
+C:\Users\DELL\source\repos\day10emp\RefactorEmp\RefactorEmp\obj\Debug\net6.0\RefactorEmp.genruntimeconfig.cache
+C:\Users\DELL\source\repos\day10emp\RefactorEmp\RefactorEmp\obj\Debug\net6.0\ref\RefactorEmp.dll
