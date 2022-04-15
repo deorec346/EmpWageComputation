@@ -1,0 +1,5 @@
+C:\Users\DELL\source\repos\UC13_DailyWages\UC13_DailyWages\obj\Debug\net6.0\UC13_DailyWages.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\UC13_DailyWages\UC13_DailyWages\obj\Debug\net6.0\UC13_DailyWages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\UC13_DailyWages\UC13_DailyWages\obj\Debug\net6.0\UC13_DailyWages.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\UC13_DailyWages\UC13_DailyWages\obj\Debug\net6.0\UC13_DailyWages.AssemblyInfo.cs
+C:\Users\DELL\source\repos\UC13_DailyWages\UC13_DailyWages\obj\Debug\net6.0\UC13_DailyWages.csproj.CoreCompileInputs.cache
