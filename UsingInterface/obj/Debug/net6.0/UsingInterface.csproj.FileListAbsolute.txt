@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\day10emp\UsingInterface\UsingInterface\bin\Debug\net6.0\UsingInterface.exe
+C:\Users\DELL\source\repos\day10emp\UsingInterface\UsingInterface\bin\Debug\net6.0\UsingInterface.deps.json
+C:\Users\DELL\source\repos\day10emp\UsingInterface\UsingInterface\bin\Debug\net6.0\UsingInterface.runtimeconfig.json
+C:\Users\DELL\source\repos\day10emp\UsingInterface\UsingInterface\bin\Debug\net6.0\UsingInterface.dll
+C:\Users\DELL\source\repos\day10emp\UsingInterface\UsingInterface\bin\Debug\net6.0\UsingInterface.pdb
+C:\Users\DELL\source\repos\day10emp\UsingInterface\UsingInterface\obj\Debug\net6.0\UsingInterface.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\day10emp\UsingInterface\UsingInterface\obj\Debug\net6.0\UsingInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\day10emp\UsingInterface\UsingInterface\obj\Debug\net6.0\UsingInterface.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\day10emp\UsingInterface\UsingInterface\obj\Debug\net6.0\UsingInterface.AssemblyInfo.cs
+C:\Users\DELL\source\repos\day10emp\UsingInterface\UsingInterface\obj\Debug\net6.0\UsingInterface.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\day10emp\UsingInterface\UsingInterface\obj\Debug\net6.0\UsingInterface.dll
+C:\Users\DELL\source\repos\day10emp\UsingInterface\UsingInterface\obj\Debug\net6.0\refint\UsingInterface.dll
+C:\Users\DELL\source\repos\day10emp\UsingInterface\UsingInterface\obj\Debug\net6.0\UsingInterface.pdb
+C:\Users\DELL\source\repos\day10emp\UsingInterface\UsingInterface\obj\Debug\net6.0\UsingInterface.genruntimeconfig.cache
+C:\Users\DELL\source\repos\day10emp\UsingInterface\UsingInterface\obj\Debug\net6.0\ref\UsingInterface.dll
